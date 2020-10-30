@@ -1,2 +1,14 @@
 .testing {
   color: green; }
+
+  .headerMain {
+    margin-bottom: 75px;
+    background: no-repeat center center;
+    background-size: cover;
+    background-image: url('https://via.placeholder.com/150');
+  }
+
+  .headingText {
+    color: white;
+    padding: 150px 0px;
+  }
